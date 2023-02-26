@@ -4,6 +4,8 @@
 🌱 I’m currently learning HTML, CSS & JS. Improve my Python skills and continuously SQL!<br/>
 💬 Ask me about ML, SQL, Python, data pipelines, data in general I love the topic.<br/>
 
+You want to talk data or operations? Reach out to via [LinkedIn](https://www.linkedin.com/in/artadini/)!
+
 <!--
 **artadini/artadini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

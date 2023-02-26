@@ -3,7 +3,7 @@
 🔭 I’m currently working in a combination of operations & data. Data Ops maybe?<br/>
 🌱 I’m currently learning HTML, CSS & JS. Improve my Python skills and continuously SQL!<br/>
 💬 Ask me about ML, SQL, Python, data pipelines, data in general I love the topic.<br/>
-🏢 I'm currently part of the operations team at [Pleo](https://pleo.io/)
+🏢 I'm currently part of the revenue operation team at [Pleo](https://pleo.io/).
 
 You want to talk data or operations? Reach out via [LinkedIn](https://www.linkedin.com/in/artadini/)!
 

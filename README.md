@@ -7,7 +7,7 @@
 
 You want to talk data or operations? Reach out via [LinkedIn](https://www.linkedin.com/in/artadini/)!
 
-Read about my data adventures in my Blog, the [Bytes Bay](https://artadini.eu)
+Read about my data adventures in my Blog, the [Bytes Bay](https://artadini.eu).
 
 <!--
 **artadini/artadini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

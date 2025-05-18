@@ -1,21 +1,27 @@
-### Hi there 👋
+I'm Nikolas Artadi, your partner in your next data challenge.<p>
+Data Engineer | RevOps Engineer | Enterprise Technologist
 
-🔭 I’m currently working in a combination of operations & data. Data Ops maybe?<br/>
-🌱 I’m currently learning HTML, CSS & JS. Improve my Python skills and continuously SQL!<br/>
-💬 Ask me about ML, SQL, Python, data pipelines, data in general I love the topic.<br/>
-🏢 I'm currently part of the revenue operation team at [Pleo](https://pleo.io/).
+I'm passionate about bridging the gap between business and engineering through data. I specialize in designing robust data systems, optimizing processes and creating measurable impact across revenue operations.
 
-You want to talk data or operations? Reach out via [LinkedIn](https://www.linkedin.com/in/artadini/)!
+* [LinkedIn](https://www.linkedin.com/in/artadini/)
+* Website: [artadini.eu](artadini.eu)
 
-Read about my data adventures in my Blog, the [Bytes Bay](https://artadini.eu).
+# Learning & Building
+* Deepening frontend knowledge: HTML, CSS, JS
+* Continuous sharpening Python & SQL skills
+* Learning Golang
 
-<!--
-**artadini/artadini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# What I Do
+* Build end-to-end data pipelines that power strategic decisions
+* Deliver business insights with Python, SQL, dbt & dashboards
+* Integrate and architect modern RevOps tech stacks
+* Translate complex data into actionable outcomes
 
-Here are some ideas to get you started:
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Areas of Focus
+* Data Operations (DataOps)
+* Revenue Operations & CRM architecture
+* Cloud-native data engineering (modern data stack)
+* Stakeholder alignment & system design
+
+# Projects to Explore Here
+Coming Soon
